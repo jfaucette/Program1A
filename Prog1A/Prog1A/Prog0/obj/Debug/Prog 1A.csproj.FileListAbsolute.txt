@@ -1,0 +1,18 @@
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog0\Prog0\obj\Debug\Prog 1A.csprojResolveAssemblyReference.cache
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog1A\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog1A\Prog0\obj\Debug\Prog0.exe
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog1A\Prog0\obj\Debug\Prog0.pdb
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog1A\Prog0\bin\Debug\Prog0.exe
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog1A\Prog0\bin\Debug\Prog0.pdb
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog1A\Prog0\obj\Debug\Prog 1A.csprojResolveAssemblyReference.cache
+C:\Users\jefauc01\Desktop\Prog1A\Prog1A\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\jefauc01\Desktop\Prog1A\Prog1A\Prog0\obj\Debug\Prog0.exe
+C:\Users\jefauc01\Desktop\Prog1A\Prog1A\Prog0\obj\Debug\Prog0.pdb
+C:\Users\jefauc01\Desktop\Prog1A\Prog1A\Prog0\bin\Debug\Prog0.exe
+C:\Users\jefauc01\Desktop\Prog1A\Prog1A\Prog0\bin\Debug\Prog0.pdb
+C:\Users\jefauc01\Desktop\Prog1A\Prog1A\Prog0\obj\Debug\Prog 1A.csprojResolveAssemblyReference.cache
